@@ -1,0 +1,6 @@
+# Ignore compiled Java classes
+*.class
+
+# Ignore downloaded files
+index.html
+proxy-index.html
